@@ -5,3 +5,5 @@
 * chocolate
 * vanila
 * green tea
+* cappucino
+* mango
